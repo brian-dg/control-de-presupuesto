@@ -46,7 +46,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 * [React](https://es.reactjs.org/) - El framework web usado
 * [GitHub](https://github.com) - Repositorio
-* [Netlify](hhttps://www.netlify.com) - Donde esta desployado el proyecto
+* [Netlify](https://www.netlify.com) - Donde esta desployado el proyecto
 
 ---
 ⌨️ Por [brian-dg](https://github.com/brian-dg) 😊
